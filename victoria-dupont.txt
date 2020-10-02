@@ -1,0 +1,20 @@
+https://codepen.io/victoriaanndupont/pen/KKzLRvr
+Review questions
+1) WHich of the following is not a semantic tag in HTML?
+ Answer)<div>
+ 2)Which is the best way to include an image tag in HTML?
+ Answer)<img src="image.png"
+ 3)In the exmaple below which element is considered the "parent"
+ answer)<div>
+ 4)Which CSS syntax would change the font-size of h1 elements to 24px?
+ answer)h1{
+     font-size:24px;
+ } 
+ 5)Which is the most specific CSS that changes the size of this image?
+ answer).myimage{
+     width:200px;
+ }
+ 6)how many classes does the following element have?
+ answer)4
+ for commit 
+ jfdshf
